@@ -5,3 +5,11 @@
 /node_modules
 yarn-error.log
 /.idea
+
+#These are files that are included in a
+#Medusa project and can be removed from a
+#plugin project
+medusa-config.js
+Dockerfile
+medusa-db.sql
+develop.sh
